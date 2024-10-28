@@ -1,0 +1,6 @@
+@BlandAI_HostAddress = http://localhost:5181
+
+GET {{BlandAI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
